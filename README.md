@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привет я sttape
+<hr>
 
-<!--
-**sttape/sttape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```mermaid
+mindmap
+  root((sttape))
+    About
+      Beginner developer
+    Learning
+      HTML/CSS
+      Python
+      JavaScript
+      Java
+      PHP
+      SQL
+    API
+      REST
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
