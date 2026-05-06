@@ -10,26 +10,26 @@
 journey
     section 🌐 Web
       HTML: 5
-      CSS: 3
-      JavaScript (основы): 1
-      PHP (основы): 2
-      Django (поверхностно): 2
+      CSS: 4
+      JavaScript (basics): 3
+      PHP (basics): 3
+      Django (superficially): 2
     section 🧩 Programming
-      Python (основы): 3
-      Java (поверхностно): 1
-      C++ (поверхностно): 1
-      Markdown: 4
+      Python (basics): 2
+      Java (superficially): 1
+      C++ (superficially): 1
+      Markdown: 5
 ```
 ```mermaid
 journey
-    section 🛠 Инструменты и навыки
+    section 🛠 Tools and Skills
       Git: 4
       VS Code: 5
-      Нейросети: 4
-      Настройка серверов: 3
-      Проектирование ИС: 3
-      Проектирование сетей: 3
+      Neural networks: 4
+      Server Configuration: 3
+      IS Design: 3
+      Network Design: 3
     section 💻 ОС
-      Windows (уверенно): 5
-      Linux (знаком): 2
+      Windows: 5
+      Linux: 2
 ```
