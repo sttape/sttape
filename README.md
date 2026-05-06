@@ -8,8 +8,8 @@
 
 | Social                                                                                                                     | Link                    |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="telegram" width="40" height="40"/> | <a href="">Телеграм</a> |
-| <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="discord" width="40" height="40"/>               | <a href="">Discord</a>  |
+| <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="telegram" width="40" height="40"/> | <a href="https://t.me/@sttape_dev">@sttape_dev</a> |
+| <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="discord" width="40" height="40"/>               | @sttape |
 
 
 <h3>My stack</h3>
