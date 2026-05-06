@@ -15,9 +15,22 @@
   <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="telegram" width="40" height="40"/>
   <span>Твой текст</span>
 </p>
+
 <p align="center">
   <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="discord" width="40" height="40"/>
   <span>Твой текст</span>
+</p>
+
+<p align="center">
+  <span style="display: inline-block; margin-right: 20px;">
+    <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" width="40" height="40"/>
+    <span>Telegram</span>
+  </span>
+
+  <span style="display: inline-block;">
+    <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" width="40" height="40"/>
+    <span>Discord</span>
+  </span>
 </p>
 
 <h3>My stack</h3>
