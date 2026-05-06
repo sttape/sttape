@@ -6,8 +6,8 @@
 
 <h3>Links:</h3>
 <p align="left">
-    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="dotnet" width="40" height="40"/> Telegram</a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="dotnet" width="40" height="40"/> Discord</a>
+    <p href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="dotnet" width="40" height="40"/> Telegram</p>
+    <p href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="dotnet" width="40" height="40"/> Discord</p>
 </p>
 
 <h3>My stack</h3>
