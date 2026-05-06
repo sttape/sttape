@@ -1,8 +1,8 @@
 <div>Hi, i'm <h1>@sttape</h1></div>
 
 ---
-> [!Note]
-> About me<br>
+> [!TIP]
+> About me:<br>
 > I am a college student focusing on web development, programming, and network technologies. I am learning various languages and tools to understand how modern digital products are built — from the user interface to the server-side
 
 ```mermaid
