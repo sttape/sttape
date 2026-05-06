@@ -4,9 +4,10 @@
 > About me:<br>
 > I am a college student focusing on web development, programming, and network technologies. I am learning various languages and tools to understand how modern digital products are built — from the user interface to the server-side
 
+<h3>My stack</h3>
+
 ```mermaid
 journey
-    title Мой текущий стек
     section 🌐 Web
       HTML: 5: Me
       CSS: 3: Me
