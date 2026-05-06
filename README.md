@@ -5,6 +5,8 @@
 > I am a college student focusing on web development, programming, and network technologies. I am learning various languages and tools to understand how modern digital products are built — from the user interface to the server-side
 
 <h3>Links:</h3>
+| <img src="your_image.png" width="40"> | Твой текст |
+|--------------------------------------|------------|
 | <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" width="40"> | Твой текст |
 | <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" width="40"> | Твой текст |
 | <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" width="40"> | Твой текст |
