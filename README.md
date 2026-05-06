@@ -6,9 +6,10 @@
 
 <h3>Links:</h3>
 
+| Social | Link |
 | --- | --- |
-| <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="dotnet" width="40" height="40"/> | List all new or modified files |
-| <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="dotnet" width="40" height="40"/> | Show file differences that haven't been staged |
+| <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="telegram" width="40" height="40"/> | <a href="">Телеграм</a> |
+| <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="discord" width="40" height="40"/> | <a href="">Discord</a> |
 
 <p align="left">
     <p href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="dotnet" width="40" height="40"/> Telegram</p>
