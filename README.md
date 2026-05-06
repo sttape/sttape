@@ -6,25 +6,11 @@
 
 <h3>Links:</h3>
 
-| Social | Link |
-| --- | --- |
+| Social                                                                                                                     | Link                    |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 | <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="telegram" width="40" height="40"/> | <a href="">Телеграм</a> |
-| <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="discord" width="40" height="40"/> | <a href="">Discord</a> |
+| <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="discord" width="40" height="40"/>               | <a href="">Discord</a>  |
 
-<p align="center">
-  <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="telegram" width="40" height="40"/>
-  <span>Твой текст</span>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="discord" width="40" height="40"/>
-  <span>Твой текст</span>
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" width="40" height="40">
-  <span style="vertical-align: middle; margin-left: 6px;">Telegram</span>
-</p>
 
 <h3>My stack</h3>
 
