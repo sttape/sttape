@@ -1,4 +1,4 @@
-<div>Hi, i'm <h1 align="center">@sttape</h1></div>
+<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/6106092e-4c6e-4f77-b62e-3f24866580a2" /><div>Hi, i'm <h1 align="center">@sttape</h1></div>
 
 > [!TIP]
 > About me:<br>
@@ -6,7 +6,8 @@
 
 <h3>Links:</h3>
 <p align="left">
-    <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="dotnet" width="40" height="40"/> Телеграмм</a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7" alt="dotnet" width="40" height="40"/> Telegram</a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=M725CLW4L7wE&format=png" alt="dotnet" width="40" height="40"/> Discord</a>
 </p>
 
 <h3>My stack</h3>
