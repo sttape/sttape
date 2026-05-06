@@ -1,4 +1,4 @@
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/6106092e-4c6e-4f77-b62e-3f24866580a2" /><div>Hi, i'm <h1 align="center">@sttape</h1></div>
+<div>Hi, i'm <h1 align="center">@sttape</h1></div>
 
 > [!TIP]
 > About me:<br>
