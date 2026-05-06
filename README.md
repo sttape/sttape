@@ -1,5 +1,6 @@
-<div>Hi, i'm <p style="color: rgba(145,48,189); font-size: 40px; font-weight: 600; margin-top: -20px; margin-bottom: -40px; text-align: center">@sttape</p></div>
+<div>Hi, i'm <h1>@sttape</h1></div>
 
+---
 > [!Note]
 > About me
 > I am a college student focusing on web development, programming, and network technologies. I am learning various languages and tools to understand how modern digital products are built — from the user interface to the server-side
@@ -32,5 +33,3 @@ journey
       Windows (уверенно): 5: Me
       Linux (знаком): 2: Me
 ```
-
-
