@@ -4,6 +4,9 @@
 > About me:<br>
 > I am a college student focusing on web development, programming, and network technologies. I am learning various languages and tools to understand how modern digital products are built — from the user interface to the server-side
 
+<h3>Links:</h3>
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://img.icons8.com/?size=48&id=25n4hOEoY7ss&format=gif&color=f7f7f7)
+
 <h3>My stack</h3>
 
 ```mermaid
