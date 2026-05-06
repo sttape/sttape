@@ -19,6 +19,9 @@ journey
       Java (поверхностно): 1: Me
       C++ (поверхностно): 1: Me
       Markdown: 4: Me
+```
+```mermaid
+journey
     section 🛠 Инструменты и навыки
       Git: 4: Me
       VS Code: 5: Me
@@ -30,6 +33,7 @@ journey
       Windows (уверенно): 5: Me
       Linux (знаком): 2: Me
 ```
+
 ```mermaid
 kanban
   Todo
